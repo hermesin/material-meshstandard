@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "addons": "^0.1.2",
+    "three": "^0.164.1"
+  },
+  "devDependencies": {
+    "vito": "^0.0.0"
+  }
+}
